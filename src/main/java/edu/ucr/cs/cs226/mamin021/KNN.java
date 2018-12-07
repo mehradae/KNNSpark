@@ -4,7 +4,7 @@ package edu.ucr.cs.cs226.mamin021;
  * Hello world!
  *
  */
-public class App
+public class KNN
 {
     public static void main(final String[] args ) throws Exception
     {
